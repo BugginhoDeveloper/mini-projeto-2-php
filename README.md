@@ -34,12 +34,13 @@ O aplicativo deverá:
 - Não gerar apostas duplicadas
 - Exibir as dezenas de cada apostas em ordem crescente
 - Armazenar em um arquivo de texto em formato **JSON** 
-	- Todas as apostas geradas naquela rodada
-	- Para quem jogo foram as dezenas geradas
+	- Todas as apostas geradas naquela e na demais rodadas (Mantendo assim um histórico)
+	- Para qual jogo foram as dezenas geradas
 	- A data/hora que aquela rodada foi gerada
 	- O valor total da aposta
 - Permitir que uma ou mais apostas sejam excluídas do arquivo de texto
-- Informar o valor total de sua aposta de cada rodada
+- Após a gravação da rodada de apostas, listar as dezenas geradas e informar o valor total naquela rodada
+- Permitir que o usuário consulte o histórico de apostas geradas
 
 Confira o número mínimo e máximo de dezenas, bem como os respectivos valores das apostas em:
 http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena
