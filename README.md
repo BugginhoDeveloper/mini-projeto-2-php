@@ -32,7 +32,7 @@ O aplicativo deverá:
 - Solicitar do usuário quantas dezenas ele quer apostar (Respeitando o mínimo e o máximo de cada jogo):
 - Solicitar do usuário quantas apostas ele quer gerar
 - Não gerar apostas duplicadas
-- Exibir as apostas em ordem crescente
+- Exibir as dezenas de cada apostas em ordem crescente
 - Armazenar em um arquivo de texto em formato **JSON** 
 	- Todas as apostas geradas naquela rodada
 	- Para quem jogo foram as dezenas geradas
