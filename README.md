@@ -55,6 +55,16 @@ http://loterias.caixa.gov.br/wps/portal/loterias/landing/lotofacil
 > - Você poderá tirar suas dúvidas no [Slack do Desafio][3]
 > - Ao finalizar o seu projeto, publique-o no Github e envie o link para bugginhodeveloper@gmail.com
 
+----------
+
+Quem já enviou?
+--------
+
+Confira abaixo uma lista com todos os amiguinhos que já concluíram o desafio:
+
+- Hugo Peres (https://github.com/hugueds/loteca-bugginho/)
+- Vinícius Carvalho (https://bitbucket.org/marcuscarvalho6/gerador-de-apostas)
+
   [1]: http://php.net/
   [2]: http://php.net/manual/pt_BR/
   [3]: https://bugginhominiprojetos.slack.com/
